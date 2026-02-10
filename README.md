@@ -1,4 +1,13 @@
 # MCP Project Generator
+
+## Why This Project Exists
+
+“turning job descriptions into AI architecture artifacts”
+
+“demonstrates senior/staff readiness”
+
+“portfolio-driven MCP systems”
+
 ### Turning Any Job Description into an AI-Driven Architecture & Portfolio Project
 
 This repository provides a **repeatable framework** and a **Python MCP server** for transforming any technical job description into:
