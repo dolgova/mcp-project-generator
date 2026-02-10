@@ -1,4 +1,5 @@
-# Example: Network TAC AI Copilot
+# Example: Company, Arista Networks.
+Technical Solutions Engineer - Cloud, Hyperscalers and AI networks
 
 ## Purpose
 Demonstrates AI-driven troubleshooting for data-center and AI networking environments, aligned with TAC / Solutions Engineer responsibilities such as:

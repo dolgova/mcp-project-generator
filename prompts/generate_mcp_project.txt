@@ -17,4 +17,8 @@ Follow structured sections:
 10. Project Scope, Roadmap, Metrics
 11. Portfolio & Interview Value
 
-Output must be professional, concise, and senior-level.
+For each section, explicitly tie design choices back to specific responsibilities,
+skills, and technologies mentioned in the job description so a hiring manager can
+immediately see alignment.
+
+Output must be professional, concise, and senior-level, formatted as valid Markdown.
