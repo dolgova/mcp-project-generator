@@ -27,11 +27,13 @@ You can use it in three ways:
 ## Repository Structure
 
 ```
-template/   → Universal MCP project document structure  
-prompts/    → Ready-to-use generation prompt  
-examples/   → Sample generated projects  
+template/     → Universal MCP project document structure  
+prompts/      → Ready-to-use generation prompt  
+examples/     → Sample generated projects  
+prototypes/   → Dedicated MCP copilot servers (e.g. Arista TAC)  
+  _shared/    → Shared utilities for copilots (RCA formatter, base helpers)  
 project_generator.py → LLM + file-writing logic  
-server.py   → MCP server exposing project generation tools  
+server.py     → MCP server exposing project generation tools  
 requirements.txt → Python dependencies  
 generated_projects/ → (created at runtime) generated project folders  
 ```
